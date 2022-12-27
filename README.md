@@ -9,6 +9,8 @@ This is what will you get in this code...
 
 Image Sliding Ratio Horizontal, features:
 
+[ImageSliding-RatioHorizontal.webm](https://user-images.githubusercontent.com/106858846/209637067-a3977082-6416-49cc-9aa0-880a9bebed39.webm)
+
 - Horizontally slide the image in 16:9 ratio gallery
 - No limit of how many images can be added, recommendation: 3-12 images
 - Dot navigation bar
