@@ -65,37 +65,37 @@ body {
 	transform: scale(1.2);
 }
 
-/* Adaptive setting: just change the scale */
+/* Adaptive setting: just change the scale, ex: scale(2) */
 /* mobile screen */
 @media only screen and (max-width: 768px) {
 	/* Gallery size */
 	.gallery {
-		transform: scale(1);
+		transform: scale();
 	}
 	/* Dots navbar size */
 	.dots {
-		transform: scale(1);
+		transform: scale();
 	}
 }
 /* ipad screen */
 @media only screen and (min-width: 769px) and (max-width: 1114px) {
 	/* Gallery size */
 	.gallery {
-		transform: scale(1);
+		transform: scale();
 	}
 	/* Dots navbar size */
 	.dots {
-		transform: scale(1);
+		transform: scale();
 	}
 }
 /* folding-mobile screen */
 @media only screen and (max-width: 400px) {
 	/* Gallery size */
 	.gallery {
-		transform: scale(1);
+		transform: scale();
 	}
 	/* Dots navbar size */
 	.dots {
-		transform: scale(1);
+		transform: scale();
 	}
 }
