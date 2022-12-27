@@ -10,7 +10,7 @@ This is what will you get in this code...
 Image Sliding Ratio Horizontal, features:
 
 - Horizontally slide the image in 16:9 ratio gallery
-- No limit of how many images can be added
+- No limit of how many images can be added, recommendation: 3-12 images
 - Dot navigation bar
 - Vivid dots when mouse hover
 - Size up dots animation when clicked
